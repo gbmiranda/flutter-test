@@ -7,6 +7,17 @@
 
 This test is intended for candidates applying to Mobile Engineering positions.
 
+We are really excited about your participation in our selection process!
+
+At this step, we are going to evaluate your software engineering skills, but don't worry, the project is fairly simple.
+
+You are expected to use all of your experience to create a production-ready application (or close enough). Our evaluation will cover the following aspects:
+
+Overall implementation (accuracy, readability, etc)
+Git skills (fragmentation, commit messages, etc)
+Documentation (source code, readme file, etc)
+Testability (testing framework, coverage, etc)
+
 ## 2. Pre-requisites
 
 - Git
